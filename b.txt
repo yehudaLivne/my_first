@@ -1,0 +1,6 @@
+3 + 5 = 8
+5 * 4 = 20
+5 / 4 = 1.25
+3 - 3 = 0
+not a good line1 + 1 = 2
+not a good linenot a good linenot a good linenot a good line
